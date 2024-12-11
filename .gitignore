@@ -1,2 +1,5 @@
-awscliv2.zip
+*.zip
+.terraform/
+terraform-provider-*
+terraform.tfstate
 terraform.tfstate.backup
