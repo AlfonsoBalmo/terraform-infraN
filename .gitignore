@@ -1,5 +1,7 @@
+# Excluir archivos binarios y grandes
 *.zip
-.terraform/
 terraform-provider-*
+*.x5
 terraform.tfstate
 terraform.tfstate.backup
+.terraform/
